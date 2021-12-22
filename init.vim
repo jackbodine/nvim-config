@@ -32,7 +32,7 @@ call plug#begin("~/.vim/plugged")
  " Plug 'vim-airline/vim-airline'
  " Plug 'liuchengxu/vim-which-key'
  Plug 'itchyny/lightline.vim'
- Plug 'vim-airline/vim-airline-themes'
+ " Plug 'vim-airline/vim-airline-themes'
  Plug 'sheerun/vim-polyglot'
  Plug 'preservim/nerdtree'
  Plug 'norcalli/nvim-colorizer.lua'
